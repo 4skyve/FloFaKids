@@ -1,0 +1,122 @@
+[
+  {
+    "level": 1,
+    "question": "Hewan yang hanya hidup di Pulau Jawa adalah …",
+    "options": ["Banteng", "Badak Jawa", "Elang", "Kenari"],
+    "answer": 1
+  },
+  {
+    "level": 1,
+    "question": "Kukang aktif pada waktu …",
+    "options": ["Pagi", "Siang", "Malam", "Sore"],
+    "answer": 2
+  },
+  {
+    "level": 1,
+    "question": "Hewan yang memiliki duri tajam adalah …",
+    "options": ["Lutung", "Landak Jawa", "Owa Jawa", "Surili"],
+    "answer": 1
+  },
+  {
+    "level": 1,
+    "question": "Macan tutul adalah hewan pemakan …",
+    "options": ["Rumput", "Buah", "Daging", "Biji"],
+    "answer": 2
+  },
+  {
+    "level": 1,
+    "question": "Owa Jawa termasuk kelompok hewan …",
+    "options": ["Burung", "Ikan", "Primata", "Serangga"],
+    "answer": 2
+  },
+  {
+    "level": 1,
+    "question": "Burung yang dapat terbang tinggi adalah …",
+    "options": ["Elang", "Kapodang", "Kenari", "Surili"],
+    "answer": 0
+  },
+  {
+    "level": 1,
+    "question": "Edelweis dikenal sebagai bunga …",
+    "options": ["Bangkai", "Abadi", "Air", "Hias"],
+    "answer": 1
+  },
+  {
+    "level": 1,
+    "question": "Rafflesia memiliki bau yang …",
+    "options": ["Harum", "Busuk", "Manis", "Segar"],
+    "answer": 1
+  },
+  {
+    "level": 1,
+    "question": "Pohon jati digunakan untuk membuat …",
+    "options": ["Obat", "Mainan", "Meja dan kursi", "Pupuk"],
+    "answer": 2
+  },
+  {
+    "level": 1,
+    "question": "Salak termasuk tanaman …",
+    "options": ["Sayur", "Buah", "Bunga", "Rumput"],
+    "answer": 1
+  },
+  {
+    "level": 2,
+    "question": "Binturong sering disebut juga …",
+    "options": ["Musang", "Beruang", "Kucing", "Tikus"],
+    "answer": 0
+  },
+  {
+    "level": 2,
+    "question": "Purwaceng tumbuh di daerah …",
+    "options": ["Pantai", "Pegunungan", "Laut", "Kota"],
+    "answer": 1
+  },
+  {
+    "level": 2,
+    "question": "Anggrek dikenal karena keindahan …",
+    "options": ["Akar", "Daun", "Bunga", "Batang"],
+    "answer": 2
+  },
+  {
+    "level": 2,
+    "question": "Damar menghasilkan getah untuk …",
+    "options": ["Makanan", "Cat", "Minuman", "bumbu"],
+    "answer": 1
+  },
+  {
+    "level": 2,
+    "question": "Kenari menghasilkan …",
+    "options": ["Kayu", "Buah", "kursi", "Getah"],
+    "answer": 2
+  },
+  {
+    "level": 2,
+    "question": "Lutung termasuk hewan …",
+    "options": ["Reptil", "Primata", "Burung", "Ikan"],
+    "answer": 1
+  },
+  {
+    "level": 2,
+    "question": "Bunga malam mekar saat …",
+    "options": ["Pagi", "Siang", "Sore", "Malam"],
+    "answer": 3
+  },
+  {
+    "level": 2,
+    "question": "Badak Jawa adalah hewan …",
+    "options": ["Umum", "Langka", "Peliharaan", "Serangga"],
+    "answer": 1
+  },
+    {
+    "level": 2,
+    "question": "Kapodang adalah jenis …",
+    "options": ["Mamalia", "Burung", "Ikan", "Serangga"],
+    "answer": 1
+  },
+   {
+    "level": 2,
+    "question": "Mojolegi termasuk tanaman …",
+    "options": ["Buah", "Bunga", "Rumput", "Jamur"],
+    "answer": 0
+  }
+]

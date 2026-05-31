@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697594983092",
+    "project_id": "flofakids-324d4",
+    "storage_bucket": "flofakids-324d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697594983092:android:9d085b12d0f55251bb9de1",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJY4CDsgF1WI9tK11J517OX7gryZVmYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
